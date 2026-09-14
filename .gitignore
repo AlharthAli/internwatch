@@ -6,3 +6,6 @@ node_modules/
 *.xlsx
 package/
 lambda_deployment.zip
+.terraform/
+*.tfstate*
+*.tfvars
