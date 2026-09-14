@@ -5,4 +5,8 @@ COMPANIES = [
     "coinbase",
     "notion",
     "doordash",
+    "figma",
+    "asana",
+    "reddit",
+    "gitlab",
 ]

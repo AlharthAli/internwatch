@@ -17,7 +17,7 @@ cursor = conn.cursor()
 cursor.execute("""
     CREATE TABLE postings (
         id SERIAL PRIMARY KEY,
-        greenhouse_id INTEGER UNIQUE,
+        greenhouse_id BIGINT UNIQUE,,
         company TEXT,
         title TEXT,
         location TEXT,
