@@ -4,3 +4,5 @@ __pycache__/
 CLAUDE.md
 node_modules/
 *.xlsx
+package/
+lambda_deployment.zip
